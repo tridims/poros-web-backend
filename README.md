@@ -3,3 +3,5 @@ Repo ini merupakan proyek yang dikerjakan oleh Divisi Developer Poros untuk mera
 
 ## Cara kontribusi
 Untuk melihat bagaimana langkah-langkah melakukan kontribusi pada repo ini, anda bisa mulai dengan mengakses [disini](.github/CONTRIBUTING.md)
+
+## Halo halo
